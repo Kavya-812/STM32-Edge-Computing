@@ -11,6 +11,7 @@ To run this project, you will need the following:
 - Audio data for each of the three classes (baby cry, ambulance siren, and random noises)
 - STM32Cube IDE for creating the code for the microcontroller
 - USB cable for connecting the microcontroller to your computer
+- Audio Sensor 
 
 ## Installation
 
