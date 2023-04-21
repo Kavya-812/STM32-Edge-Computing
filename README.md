@@ -21,18 +21,18 @@ To run this project, you will need the following:
 
 ## Usage
 
-1.Launch NanoEdge software and create a new project.
-2.Select "N-classifier" for the classification project and choose the "Audio" input type with an appropriate sampling rate for your audio data.
-3.Define three classes for your project: "Baby Cry", "Ambulance Siren", and "Random Noises".
-4.Collect audio data for each class using NanoEdge.
-5.Use NanoEdge to visualize the collected data as scatter plots and perform data testing.
-6.Analyze the accuracy, confusion matrix, and model being used in the classification process.
-7.Open STM32Cube IDE and create a new project, modifying the ioc file as required.
-8.Add the exported files to your project and create a new folder with "Inc" and "Lib" as subfolders.
-9.Add "knowledge.h" and "NanoEdgeAI.h" to "Inc" and "libneai.a" to "Lib".
-10.Compile and upload the code to the microcontroller.
-11.Connect the microcontroller to your computer and open a serial monitor to view the classification system's output.
-12.Play the audio samples and observe the results in the serial monitor, which will display the classification results are shown in serial monitor.
+1. Launch NanoEdge software and create a new project.
+2. Select "N-classifier" for the classification project and choose the "Audio" input type with an appropriate sampling rate for your audio data.
+3. Define three classes for your project: "Baby Cry", "Ambulance Siren", and "Random Noises".
+4. Collect audio data for each class using NanoEdge.
+5. Use NanoEdge to visualize the collected data as scatter plots and perform data testing.
+6. Analyze the accuracy, confusion matrix, and model being used in the classification process.
+7. Open STM32Cube IDE and create a new project, modifying the ioc file as required.
+8. Add the exported files to your project and create a new folder with "Inc" and "Lib" as subfolders.
+9. Add "knowledge.h" and "NanoEdgeAI.h" to "Inc" and "libneai.a" to "Lib".
+10. Compile and upload the code to the microcontroller.
+11. Connect the microcontroller to your computer and open a serial monitor to view the classification system's output.
+12. Play the audio samples and observe the results in the serial monitor, which will display the classification results are shown in serial monitor.
 
 
 
